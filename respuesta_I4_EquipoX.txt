@@ -6,4 +6,4 @@ nombres y apellidos:
 A- Blue
 B- Yellow
 C- White
-D- Blue
+D- Alfa
