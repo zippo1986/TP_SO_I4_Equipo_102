@@ -7,3 +7,8 @@ A- Blue
 B- Yellow
 C- White
 D- Alfa
+E- Sí, Alfa y Gamma
+F- Tuvimos que forzar el push y se sobreescribieron los cambios
+G- Se podria realizar un merge y resolver el conflicto manualmente 
+H- Se sobreescrive el archivo.
+I- Debe realizarse un merge para que puedan verse todos los párrafos
