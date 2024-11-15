@@ -1,0 +1,9 @@
+nombres y apellidos:
+-Matias Cuervo
+- Pedro Alejandro Ortiz Gilli
+- Andrés Sánchez Albertti
+
+A- Blue
+B- Yellow
+C- White
+D- Blue
